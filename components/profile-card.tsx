@@ -276,7 +276,7 @@ export default function ProfileCard({ profile, links }: ProfileCardProps) {
 
           <div className="text-slate-500 text-xs flex items-center space-x-1">
             <span>Powered by</span>
-            <a href="/" className="text-blue-400 font-medium hover:underline">Namecard.</a>
+            <a href="https://nexvisesolution.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 font-medium hover:underline">Nexvise</a>
             <Heart className="w-3 h-3 text-red-400 fill-current ml-1" />
           </div>
         </footer>
