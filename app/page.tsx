@@ -52,7 +52,7 @@ export default function HomePage() {
             </Button>
           </Link>
           <Link href="/johnsmith">
-            <Button size="lg" variant="outline" className="border-slate-800 text-slate-300 hover:text-white rounded-full px-8 py-6 text-md font-semibold">
+            <Button size="lg" variant="outline" className="bg-transparent border-slate-800 text-slate-300 hover:text-white hover:bg-slate-900 rounded-full px-8 py-6 text-md font-semibold">
               View Live Demo
             </Button>
           </Link>
