@@ -128,3 +128,19 @@
     @apply font-sans;
   }
 }
+
+/* Custom design effects for digital business cards */
+.glass-card {
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.profile-glow {
+  box-shadow: 0 0 25px 2px rgba(59, 130, 246, 0.6);
+}
+
+.main-card-border {
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  box-shadow: inset 0 0 20px rgba(59, 130, 246, 0.1);
+}
